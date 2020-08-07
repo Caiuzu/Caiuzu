@@ -8,11 +8,11 @@
 
 ## Hello there! ✌🏻
 
-My name is Caio Souza! I'm a Computer engineering student, work at a company as a software developer and do some freelancing in my spare time.
+My name is Caio Souza! I'm a Computer engineering student, working at a company as a software developer and doing some freelancing in my spare time.
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 - 👨🏻‍💻 Currently working with: Java, SpringBoot, Kafka, Cucumber, DevOps.
-- 📖 Studying Node.js, React and improve my skills with Java.
+- 📖 Studying Node.js, React and improving my skills with Java.
 - 🎨 Hobbyist illustrator.
 
 "To understand recursion, we must first understand a recursion" 
