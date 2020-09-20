@@ -12,7 +12,7 @@ My name is Caio Souza! I'm a Computer engineering student, working at a company 
 
 **Talking about Personal Stuff:**
 - 👨🏻‍💻 Currently working with: Java, SpringBoot, Kafka, Cucumber, DevOps.
-- 📖 Studying Node.js, React and improving my skills with Java.
+- 📖 Studying Node.js, React and improving my skills with Java. 
 - 🎨 Hobbyist illustrator.
 
 "To understand recursion, we must first understand a recursion" 
