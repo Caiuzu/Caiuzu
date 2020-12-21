@@ -1,6 +1,6 @@
 # Caio Souza @Caiuzu
 
-[![Artstation Badge](https://img.shields.io/badge/-Artstation-black?style=flat&logo=Artstation&logoColor=blue)](https://www.artstation.com/)
+[![Artstation Badge](https://img.shields.io/badge/-Artstation-black?style=flat&logo=Artstation&logoColor=blue)](https://www.artstation.com/caiuzu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/)
