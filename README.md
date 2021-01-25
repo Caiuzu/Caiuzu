@@ -5,6 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+![](https://komarev.com/ghpvc/?username=caiuzu&label=Profile+Views&style=flat&color=gray)
+
 
 ## Hello there! ✌🏻
 
