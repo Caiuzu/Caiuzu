@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=caiuzu&label=Profile+Views&style=flat&color=gray)
 
 
-## Hello there! ✌🏻
+## Hello there! :shipit: 
 
 My name is Caio Souza! I'm a Computer engineering student, working at a company as a software developer and doing some freelancing in my spare time.
 
