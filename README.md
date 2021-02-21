@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=caiuzu&label=Profile+Views&style=flat&color=gray)
 
 
-## Hello there! :shipit: 
+## Hello there!👌
 
 My name is Caio Souza! I'm a Computer engineering student, working at a company as a software developer and doing some freelancing in my spare time.
 
@@ -20,6 +20,6 @@ My name is Caio Souza! I'm a Computer engineering student, working at a company 
 "To understand recursion, we must first understand a recursion" 
 
 ##
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+:shipit: *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiuzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
