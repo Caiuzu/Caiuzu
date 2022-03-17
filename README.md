@@ -3,18 +3,17 @@
 [![Artstation Badge](https://img.shields.io/badge/-Artstation-black?style=flat&logo=Artstation&logoColor=blue)](https://www.artstation.com/caiuzu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
 ![](https://komarev.com/ghpvc/?username=caiuzu&label=Profile+Views&style=flat&color=gray)
 
 
 ## Hello there! 👌
 
-My name is Caio Souza! I'm a Computer engineering student, working at a company as a software developer and doing some freelancing in my spare time.
+My name is Caio Souza! I'm graduated in Computer Engineering, working at a company as a Software Engineering and doing some freelancing in my spare time.
 
 **Talking about Personal Stuff:**
-- 👨🏻‍💻 Currently working with: Java, SpringBoot, Kafka, Cucumber, DevOps.
-- 📖 Studying Node.js, React and improving my skills with Java. 
+- 👨🏻‍💻 Currently working with: Java, Kotlin, SpringBoot, Kafka, Spark, Cucumber, DevOps.
+- 📖 Studying Node.js, React and improving my skills with Java and Kotlin. 
 - 🎨 Hobbyist illustrator.
 
 "To understand recursion, we must first understand a recursion" 
