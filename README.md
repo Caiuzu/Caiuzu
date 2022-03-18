@@ -21,4 +21,9 @@ My name is Caio Souza! I'm graduated in Computer Engineering, working at a compa
 ##
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiuzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiuzu&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiuzu&show_icons=true&theme=dracula"/>
+
+</div>
