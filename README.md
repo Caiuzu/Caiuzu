@@ -9,7 +9,7 @@
 
 ## Hello there! 👌
 
-My name is Caio Souza! I'm graduated in Computer Engineering, working at a company as a Software Engineering and doing some freelancing in my spare time.
+My name is Caio Souza! I'm graduated in Computer Engineering, working at a company as a Software Engineer and doing some freelancing in my spare time.
 
 **Talking about Personal Stuff:**
 - 👨🏻‍💻 Currently working with: Java, Kotlin, SpringBoot, Kafka, Spark, Cucumber, DevOps.
