@@ -1,20 +1,26 @@
 # Caio Souza @Caiuzu
 
 [![Artstation Badge](https://img.shields.io/badge/-Artstation-black?style=flat&logo=Artstation&logoColor=blue)](https://www.artstation.com/caiuzu)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caiuzu/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
 ![](https://komarev.com/ghpvc/?username=caiuzu&label=Profile+Views&style=flat&color=gray)
 
 
-## Hello there! 👌
+# 👋 Hey there! I'm Caio Souza!  
 
-My name is Caio Souza! I'm graduated in Computer Engineering, working at a company as a Software Engineer and doing some freelancing in my spare time.
+I’m a **Senior Backend Engineer** and **Technical Lead**, passionate about building scalable, high-performance systems. With a background in **Computer Engineering**, I specialize in designing robust architectures and leading development teams to deliver efficient solutions.
 
-**Talking about Personal Stuff:**
-- 👨🏻‍💻 Currently working with: Java, Kotlin, SpringBoot, Kafka, Spark, Cucumber, DevOps.
-- 📖 Studying Node.js, React and improving my skills with Java and Kotlin. 
-- 🎨 Hobbyist illustrator.
+## About Me
+- 💼 Currently working as a **Technical Lead**, focusing on **software architecture** and backend development.  
+- 🔧 Experienced with **Java, Kotlin, Spring Boot, NestJS, Kafka, Spark, and DevOps**.  
+- 🎯 Improving my **frontend skills** to become a more well-rounded engineer.  
+- 🎨 Hobbyist **illustrator** in my free time.  
+
+## Let's Connect!
+Feel free to reach out—I'm always open to tech discussions, collaboration, or just sharing ideas!  
+
+---
 
 "To understand recursion, we must first understand a recursion" 
 
